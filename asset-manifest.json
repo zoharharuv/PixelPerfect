@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PixelPerfect/static/css/main.88a52abe.chunk.css",
+    "main.js": "/PixelPerfect/static/js/main.0150ff1d.chunk.js",
+    "main.js.map": "/PixelPerfect/static/js/main.0150ff1d.chunk.js.map",
+    "runtime-main.js": "/PixelPerfect/static/js/runtime-main.2402890b.js",
+    "runtime-main.js.map": "/PixelPerfect/static/js/runtime-main.2402890b.js.map",
+    "static/js/2.c7e0bfee.chunk.js": "/PixelPerfect/static/js/2.c7e0bfee.chunk.js",
+    "static/js/2.c7e0bfee.chunk.js.map": "/PixelPerfect/static/js/2.c7e0bfee.chunk.js.map",
+    "index.html": "/PixelPerfect/index.html",
+    "static/css/main.88a52abe.chunk.css.map": "/PixelPerfect/static/css/main.88a52abe.chunk.css.map",
+    "static/js/2.c7e0bfee.chunk.js.LICENSE.txt": "/PixelPerfect/static/js/2.c7e0bfee.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/PixelPerfect/static/media/Livvic-SemiBold.f5f72371.ttf",
+    "static/media/avatar-aiysha.e119a0c1.jpg": "/PixelPerfect/static/media/avatar-aiysha.e119a0c1.jpg",
+    "static/media/avatar-arthur.098c2e26.jpg": "/PixelPerfect/static/media/avatar-arthur.098c2e26.jpg",
+    "static/media/avatar-kady.78fc482c.jpg": "/PixelPerfect/static/media/avatar-kady.78fc482c.jpg",
+    "static/media/home-body-bottom.4bc172f9.svg": "/PixelPerfect/static/media/home-body-bottom.4bc172f9.svg",
+    "static/media/home-body-footer-bottom.95a2a621.svg": "/PixelPerfect/static/media/home-body-footer-bottom.95a2a621.svg",
+    "static/media/home-body-footer-top.aacd4e03.svg": "/PixelPerfect/static/media/home-body-footer-top.aacd4e03.svg",
+    "static/media/home-get-started-bottom.d6ab17f2.svg": "/PixelPerfect/static/media/home-get-started-bottom.d6ab17f2.svg",
+    "static/media/icon-chart.6ec5af86.svg": "/PixelPerfect/static/media/icon-chart.6ec5af86.svg",
+    "static/media/icon-cog.332de386.svg": "/PixelPerfect/static/media/icon-cog.332de386.svg",
+    "static/media/icon-facebook.229c75a0.svg": "/PixelPerfect/static/media/icon-facebook.229c75a0.svg",
+    "static/media/icon-person.5552a51d.svg": "/PixelPerfect/static/media/icon-person.5552a51d.svg",
+    "static/media/icon-pinterest.a2d25ab4.svg": "/PixelPerfect/static/media/icon-pinterest.a2d25ab4.svg",
+    "static/media/icon-quotes.c5173921.svg": "/PixelPerfect/static/media/icon-quotes.c5173921.svg",
+    "static/media/icon-twitter.1d5c6d5e.svg": "/PixelPerfect/static/media/icon-twitter.1d5c6d5e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2402890b.js",
+    "static/js/2.c7e0bfee.chunk.js",
+    "static/css/main.88a52abe.chunk.css",
+    "static/js/main.0150ff1d.chunk.js"
+  ]
+}

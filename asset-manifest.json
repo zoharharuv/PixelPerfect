@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PixelPerfect/static/css/main.07021d98.chunk.css",
-    "main.js": "/PixelPerfect/static/js/main.0150ff1d.chunk.js",
-    "main.js.map": "/PixelPerfect/static/js/main.0150ff1d.chunk.js.map",
+    "main.js": "/PixelPerfect/static/js/main.61b2dd1e.chunk.js",
+    "main.js.map": "/PixelPerfect/static/js/main.61b2dd1e.chunk.js.map",
     "runtime-main.js": "/PixelPerfect/static/js/runtime-main.2402890b.js",
     "runtime-main.js.map": "/PixelPerfect/static/js/runtime-main.2402890b.js.map",
     "static/js/2.c7e0bfee.chunk.js": "/PixelPerfect/static/js/2.c7e0bfee.chunk.js",
@@ -24,12 +24,13 @@
     "static/media/icon-person.5552a51d.svg": "/PixelPerfect/static/media/icon-person.5552a51d.svg",
     "static/media/icon-pinterest.a2d25ab4.svg": "/PixelPerfect/static/media/icon-pinterest.a2d25ab4.svg",
     "static/media/icon-quotes.c5173921.svg": "/PixelPerfect/static/media/icon-quotes.c5173921.svg",
-    "static/media/icon-twitter.1d5c6d5e.svg": "/PixelPerfect/static/media/icon-twitter.1d5c6d5e.svg"
+    "static/media/icon-twitter.1d5c6d5e.svg": "/PixelPerfect/static/media/icon-twitter.1d5c6d5e.svg",
+    "static/media/logo.9e687f65.svg": "/PixelPerfect/static/media/logo.9e687f65.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2402890b.js",
     "static/js/2.c7e0bfee.chunk.js",
     "static/css/main.07021d98.chunk.css",
-    "static/js/main.0150ff1d.chunk.js"
+    "static/js/main.61b2dd1e.chunk.js"
   ]
 }

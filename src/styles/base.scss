@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "livvic-regular";
+    color: $white;
+    background-color: $bg;
+}
+
+a,
+button {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+p{
+    margin: 0;
+}
+
+h1 {
+    line-height: 6.25rem;
+    font-family: livvic-bold;
+    font-size: 6.25rem;
+}
+
+h2 {
+    line-height: 3rem;
+    font-family: livvic-bold;
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+}
+
+h4 {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    color: $bgLight;
+    font-family: livvic-bold;
+}

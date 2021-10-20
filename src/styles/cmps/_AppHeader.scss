@@ -1,0 +1,36 @@
+.app-header {
+    div {
+        gap: 80px;
+        nav {
+            gap: 40px;
+            span {
+                font-size: 1.125rem;
+                font-family: livvic-semi-bold;
+                &:hover{
+                    cursor: pointer;
+                    color: $red;
+                }
+            }
+        }
+    }
+    button {
+        width: 153px;
+        height: 48px;
+        border-radius: 24px;
+        background-color: transparent;
+        border: 2px solid $white;
+        padding-bottom: 0.5rem;
+        cursor: pointer;
+        span {
+            font-size: 1.125rem;
+            color: $white;
+            font-family: livvic-semi-bold;
+        }
+        &:hover{
+            span{
+                color: $bg;
+            }
+            background-color: $white;
+        }
+    }
+}

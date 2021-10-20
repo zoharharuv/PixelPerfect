@@ -1,0 +1,159 @@
+.home-page {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 500px 700px 750px 200px;
+    grid-template-areas:
+        "header"
+        "body"
+        "footer"
+        "get-started";
+}
+// H-HEAD
+.home-header {
+    grid-area: header;
+    padding-top: 60px;
+    gap: 140px;
+    h1 {
+        white-space: wrap;
+        max-width: 10ch;
+        span {
+            color: $red;
+        }
+    }
+    p {
+        padding-top: 80px;
+        line-height: 1.75rem;
+        font-size: 1.125rem;
+        font-family: livvic-semi-bold;
+        width: 445px;
+    }
+}
+// H_BODY
+.home-body {
+    grid-area: body;
+    background-color: $bgDark;
+    padding-top: 200px;
+    .home-body-content {
+        height: 100%;
+        gap: 160px;
+        .home-body-title {
+            width: 50ch;
+        }
+        .home-body-list {
+            ul {
+                width: 540px;
+                margin: 0;
+                padding: 0;
+                gap: 40px;
+                li {
+                    height: 90px;
+                    display: flex;
+                    align-items: center;
+                    gap: 20px;
+                    img {
+                        width: 70px;
+                        height: 70px;
+                    }
+                    div {
+                        gap: 0.9375rem;
+                        h4 {
+                            font-family: livvic-bold;
+                            color: $red;
+                        }
+                        small {
+                            font-size: 0.9375rem;
+                            line-height: 1.5625rem;
+                            font-family: livvic-semi-bold;
+                            color: $grey;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+// H-FOOTER
+.home-footer {
+    grid-area: footer;
+    background-color: $bgMiddle;
+    div {
+        gap: 80px;
+        height: 100%;
+        h2 {
+            width: 38ch;
+            padding: 0 80px;
+            text-align: center;
+            span {
+                color: $bgLight;
+            }
+        }
+        aside {
+            gap: 50px;
+            article {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+                .quotes {
+                    top: -30px;
+                }
+                p {
+                    z-index: 1;
+                    max-width: 10ch;
+                    max-width: 38ch;
+                    padding-bottom: 40px;
+                    font-size: 0.9375rem;
+                    line-height: 1.5625rem;
+                    font-family: livvic-semi-bold;
+                }
+                h4 {
+                    padding-bottom: 0.9375rem;
+                }
+                small {
+                    font-size: 0.8125rem;
+                    line-height: 1.125rem;
+                    font-weight: 500;
+                    font-style: italic;
+                    padding-bottom: 40px;
+                }
+                .profile-photo {
+                    width: 62px;
+                    height: 62px;
+                    border-radius: 31px;
+                    border: 2px solid #c4fffe;
+                }
+            }
+        }
+    }
+}
+// H-GET STARTED
+.get-started {
+    grid-area: get-started;
+    background-color: $red;
+    div {
+        padding: 0 180px;
+        height: 100%;
+        h2 {
+            color: $bgDark;
+        }
+        button {
+            width: 153px;
+            height: 48px;
+            border-radius: 24px;
+            background-color: transparent;
+            border: 2px solid $bgDark;
+            padding-bottom: 0.5rem;
+            span {
+                font-size: 1.125rem;
+                color: $bgDark;
+                font-family: livvic-semi-bold;
+            }
+            &:hover{
+                span{
+                    color: $white;
+                }
+                background-color: $bgDark;
+            }
+        }
+    }
+}

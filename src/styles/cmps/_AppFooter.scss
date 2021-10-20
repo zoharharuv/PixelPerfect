@@ -1,0 +1,42 @@
+.app-footer {
+    background-color: $bgDark;
+    .footer-content {
+        height: 100%;
+        .dark-text {
+            font-size: 0.9375rem;
+            line-height: 1.5625rem;
+            color: #99a8a9;
+            font-family: livvic-semi-bold;
+        }
+        .footer-left {
+            gap: 120px;
+            .footer-links {
+                gap: 40px;
+                nav {
+                    gap: 40px;
+                    span {
+                        font-size: 1.125rem;
+                        font-family: livvic-semi-bold;
+                        &:hover {
+                            cursor: pointer;
+                            color: $red;
+                        }
+                    }
+                }
+            }
+        }
+        .footer-right {
+            gap: 50px;
+            .footer-links {
+                align-self: flex-end;
+                gap: 15px;
+                span {
+                    cursor: pointer;
+                }
+            }
+            .footer-copyright {
+                gap: 15px;
+            }
+        }
+    }
+}

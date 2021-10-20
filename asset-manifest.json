@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PixelPerfect/static/css/main.88a52abe.chunk.css",
+    "main.css": "/PixelPerfect/static/css/main.07021d98.chunk.css",
     "main.js": "/PixelPerfect/static/js/main.0150ff1d.chunk.js",
     "main.js.map": "/PixelPerfect/static/js/main.0150ff1d.chunk.js.map",
     "runtime-main.js": "/PixelPerfect/static/js/runtime-main.2402890b.js",
@@ -8,7 +8,7 @@
     "static/js/2.c7e0bfee.chunk.js": "/PixelPerfect/static/js/2.c7e0bfee.chunk.js",
     "static/js/2.c7e0bfee.chunk.js.map": "/PixelPerfect/static/js/2.c7e0bfee.chunk.js.map",
     "index.html": "/PixelPerfect/index.html",
-    "static/css/main.88a52abe.chunk.css.map": "/PixelPerfect/static/css/main.88a52abe.chunk.css.map",
+    "static/css/main.07021d98.chunk.css.map": "/PixelPerfect/static/css/main.07021d98.chunk.css.map",
     "static/js/2.c7e0bfee.chunk.js.LICENSE.txt": "/PixelPerfect/static/js/2.c7e0bfee.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/PixelPerfect/static/media/Livvic-SemiBold.f5f72371.ttf",
     "static/media/avatar-aiysha.e119a0c1.jpg": "/PixelPerfect/static/media/avatar-aiysha.e119a0c1.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.2402890b.js",
     "static/js/2.c7e0bfee.chunk.js",
-    "static/css/main.88a52abe.chunk.css",
+    "static/css/main.07021d98.chunk.css",
     "static/js/main.0150ff1d.chunk.js"
   ]
 }
